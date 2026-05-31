@@ -1,2 +1,2 @@
-# Gdi-trojans-by-lou
-my GDI Trojans
+# Gigabyte
+Gigabyte gdi Trojan
